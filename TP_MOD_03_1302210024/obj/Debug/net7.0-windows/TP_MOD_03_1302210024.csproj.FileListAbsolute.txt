@@ -1,0 +1,7 @@
+C:\Users\Habli\source\repos\test\TP_MOD_03_1302210024\TP_MOD_03_1302210024\obj\Debug\net7.0-windows\TP_MOD_03_1302210024.csproj.AssemblyReference.cache
+C:\Users\Habli\source\repos\test\TP_MOD_03_1302210024\TP_MOD_03_1302210024\obj\Debug\net7.0-windows\TP_MOD_03_1302210024.Form1.resources
+C:\Users\Habli\source\repos\test\TP_MOD_03_1302210024\TP_MOD_03_1302210024\obj\Debug\net7.0-windows\TP_MOD_03_1302210024.csproj.GenerateResource.cache
+C:\Users\Habli\source\repos\test\TP_MOD_03_1302210024\TP_MOD_03_1302210024\obj\Debug\net7.0-windows\TP_MOD_03_1302210024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habli\source\repos\test\TP_MOD_03_1302210024\TP_MOD_03_1302210024\obj\Debug\net7.0-windows\TP_MOD_03_1302210024.AssemblyInfoInputs.cache
+C:\Users\Habli\source\repos\test\TP_MOD_03_1302210024\TP_MOD_03_1302210024\obj\Debug\net7.0-windows\TP_MOD_03_1302210024.AssemblyInfo.cs
+C:\Users\Habli\source\repos\test\TP_MOD_03_1302210024\TP_MOD_03_1302210024\obj\Debug\net7.0-windows\TP_MOD_03_1302210024.csproj.CoreCompileInputs.cache
